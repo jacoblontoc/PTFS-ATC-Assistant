@@ -3,3 +3,5 @@ pyaudiowpatch>=0.2.12
 numpy>=1.24.0
 scipy>=1.11.0
 ollama>=0.3.0
+edge-tts>=6.1.9
+pygame>=2.5.0

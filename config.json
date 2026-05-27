@@ -1,0 +1,6 @@
+{
+  "default_model": "gemma4:e4b",
+  "default_device": "[Mic] Microphone (USB Condenser Micro",
+  "metar_context": "",
+  "airport_context": ""
+}
